@@ -9,10 +9,10 @@ Mashael is a software engineer with experience in writing maintainable, secure a
 - Read about javascript. 
 - Read about data strucures and algorithms.
 - Read about clean code & design patterns. 
-- regularly solve coding problems.
+- Regularly solve coding problems.
 
 ### Her goal: 
-Be the best version of her. 
+Be the best version of herself. 
 
 ### Contact her
 
